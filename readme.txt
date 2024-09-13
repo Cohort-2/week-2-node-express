@@ -9,3 +9,8 @@ what is node.js?
 
 what is bun ?
 --> bun is a javascript runtime environment its a competitor of node.js but better its written on zig
+
+what is a HTTP server ? 
+--> A protocol that is defined for machine to communicate
+--> It is most common way to you frontend to talk to the backends 
+
